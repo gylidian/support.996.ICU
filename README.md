@@ -180,6 +180,7 @@ Supported by / 支持者:
 * Leo Liu, Student, Department of Information and Communication Sciences, Sophia University
 * Leoython Chou, Software Engineer, CloudMall
 * Leroy Wang, Student, University of Washington
+* Li Dian, Front-end Developer, Student
 * Li Xiaoyang, Software Engineer, Didi Chuxing
 * Liam(Liang Ding), Ph.D. Candidate and former NLP Algorithm Engineering
 * Liang Ding, Full-Time Open-Sourcerer, B3log
